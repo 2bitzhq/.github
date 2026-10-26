@@ -31,7 +31,7 @@ AI-driven innovation, applied where it measurably improves outcomes, on the same
 
 <p align="center">
   <a href="https://www.2bitz.io">www.2bitz.io</a> ·
-  <a href="https://www.linkedin.com/company/2bitz">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/company/2bitzhq">LinkedIn</a> ·
   <a href="https://x.com/2bitzhq">X</a> ·
   <a href="https://www.instagram.com/2bitzhq/">Instagram</a>
 </p>
